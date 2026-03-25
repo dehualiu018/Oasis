@@ -29,5 +29,7 @@
 <img width="1910" height="925" alt="c061744e3dc0192ec56d699923367e41" src="https://github.com/user-attachments/assets/eed1080d-b158-4152-a6f6-61b231f78603" />
 
 ###项目架构图
-![Uploading 项目架构图.png…]()
+![Uploading 8d62343751ebe6c68ca07a5fc36c1a0f.png…]()
+
+
 
